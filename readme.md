@@ -1,6 +1,6 @@
-# Dear Reader,
+# Dear Visitor,
 
-Thank you for visiting my github and welcome to my portfolio, please see my data analysis project on the above folder.
+Thank you for visiting my github and welcome to my portfolio, please see my project on the above folder.
 
 The propose of this github will show you my coding skill (specific for data analysis and machine learning) and my business domain knowledge.
 
