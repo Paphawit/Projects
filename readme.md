@@ -10,5 +10,5 @@ For more information or any suggestion, please contact me at paphawit16@gmail.co
 
 Please do not hesitate to contact my at anytime.
 
-Thank you,
+Thank you, <br>
 Paphawit (Wit)
