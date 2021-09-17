@@ -7,7 +7,7 @@ The propose of this github will show you my coding skills (specific in data anal
 The presentation will show on Jupyter Notebook on the link below:
 - [Marketing Analytics](https://github.com/Paphawit/Projects/blob/master/Marketing%20Analytics/marketing-analytics-paphawit.ipynb)
 
-I hope you enjoy my portfolio. (The portfolio will be kept up to date.)
+I hope you enjoy my portfolio. (The portfolio will be kept updating.)
 
 For more information or any suggestion, please contact me at paphawit16@gmail.com
 
